@@ -1,4 +1,4 @@
 def my_each(array) # put argument(s) here
-while array 
+#while array 
   # code here
 end
